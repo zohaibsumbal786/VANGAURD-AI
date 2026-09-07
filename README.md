@@ -1,6 +1,6 @@
-# Zyftora — AI Solutions Engineered for Tomorrow
+# Vanguard AI — AI Solutions Engineered for Tomorrow
 
-> Official website for **Zyftora**, an AI & Software Engineering Agency based in Pakistan.  
+> Official website for **Vanguard AI**, an AI & Software Engineering Agency based in Pakistan.  
 > Built with React, TanStack Router, TailwindCSS v4, and Vite.
 
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
@@ -12,22 +12,22 @@
 
 ## 🌐 Live Site
 
-Deployed at: **[zyftora.com](https://zyftora.com)** *(replace with your actual domain)*
+Deployed at: **[vanguardai.com](https://vanguardai.com)** _(replace with your actual domain)_
 
 ---
 
 ## 🏗️ Tech Stack
 
-| Layer | Technology |
-|-------|-----------|
-| Framework | React 19 + TanStack Router (file-based) |
-| Styling | TailwindCSS v4 + tw-animate-css |
-| Build Tool | Vite 8 |
-| Language | TypeScript 5 |
-| UI Components | Radix UI + shadcn/ui |
-| Icons | Lucide React |
-| Forms | React Hook Form + Zod |
-| Charts | Recharts |
+| Layer         | Technology                              |
+| ------------- | --------------------------------------- |
+| Framework     | React 19 + TanStack Router (file-based) |
+| Styling       | TailwindCSS v4 + tw-animate-css         |
+| Build Tool    | Vite 8                                  |
+| Language      | TypeScript 5                            |
+| UI Components | Radix UI + shadcn/ui                    |
+| Icons         | Lucide React                            |
+| Forms         | React Hook Form + Zod                   |
+| Charts        | Recharts                                |
 
 ---
 
@@ -61,8 +61,8 @@ src/
 
 ```bash
 # Clone the repository
-git clone https://github.com/zohaibsumbal786/Zyftora-ai-solutions.git
-cd Zyftora-ai-solutions
+git clone https://github.com/zohaibsumbal786/Vanguard AI-ai-solutions.git
+cd Vanguard AI-ai-solutions
 
 # Install dependencies
 npm install
@@ -77,25 +77,25 @@ Open [http://localhost:5173](http://localhost:5173) in your browser.
 
 ## 🛠️ Available Scripts
 
-| Command | Description |
-|---------|-------------|
-| `npm run dev` | Start development server (hot reload) |
-| `npm run build` | Build for production |
-| `npm run preview` | Preview production build locally |
-| `npm run lint` | Run ESLint |
-| `npm run format` | Format code with Prettier |
+| Command           | Description                           |
+| ----------------- | ------------------------------------- |
+| `npm run dev`     | Start development server (hot reload) |
+| `npm run build`   | Build for production                  |
+| `npm run preview` | Preview production build locally      |
+| `npm run lint`    | Run ESLint                            |
+| `npm run format`  | Format code with Prettier             |
 
 ---
 
 ## 📄 Pages
 
-| Route | Description |
-|-------|-------------|
-| `/` | Home — Hero, Services, About, Team, Process, Portfolio, Contact |
-| `/services` | Detailed services page with 6 capability areas |
-| `/portfolio` | Full portfolio — 22+ projects across 5 categories |
-| `/about` | About — Mission, Team, Timeline, Tech stack |
-| `/contact` | Contact form, FAQ, direct contact details |
+| Route        | Description                                                     |
+| ------------ | --------------------------------------------------------------- |
+| `/`          | Home — Hero, Services, About, Team, Process, Portfolio, Contact |
+| `/services`  | Detailed services page with 6 capability areas                  |
+| `/portfolio` | Full portfolio — 22+ projects across 5 categories               |
+| `/about`     | About — Mission, Team, Timeline, Tech stack                     |
+| `/contact`   | Contact form, FAQ, direct contact details                       |
 
 ---
 
@@ -120,15 +120,15 @@ Open [http://localhost:5173](http://localhost:5173) in your browser.
 
 ## 📞 Contact
 
-- **Website:** [zyftora.com](https://zyftora.com)
-- **Email:** zyftora@gmail.com
+- **Website:** [vanguardai.com](https://vanguardai.com)
+- **Email:** vanguardai@gmail.com
 - **WhatsApp:** +92 315 6977277
-- **Instagram:** [@zyftorallc](https://www.instagram.com/zyftorallc/)
-- **Facebook:** [Zyftora](https://www.facebook.com/profile.php?id=61590736214299)
-- **TikTok:** [@zyftorallc](https://www.tiktok.com/@zyftorallc)
+- **Instagram:** [@vanguardaillc](https://www.instagram.com/vanguardaillc/)
+- **Facebook:** [Vanguard AI](https://www.facebook.com/profile.php?id=61590736214299)
+- **TikTok:** [@vanguardaillc](https://www.tiktok.com/@vanguardaillc)
 
 ---
 
 ## 📝 License
 
-All rights reserved © 2026 Zyftora. Built for production deployment.
+All rights reserved © 2026 Vanguard AI. Built for production deployment.
