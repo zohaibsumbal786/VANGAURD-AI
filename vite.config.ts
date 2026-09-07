@@ -11,9 +11,7 @@ export default defineConfig({
     tanstackStart({
       server: { entry: "server" },
       prerender: {
-        enabled: true,
-        routes: ["/", "/services", "/portfolio", "/about", "/contact"],
-        crawlLinks: false,
+        enabled: false,
       },
     }),
     react(),
