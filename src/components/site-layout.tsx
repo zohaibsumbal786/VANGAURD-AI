@@ -117,7 +117,7 @@ export function SiteNav() {
     >
       <div className="mx-auto flex h-[64px] max-w-7xl items-center justify-between px-6 lg:px-8">
         <Link to="/" className="shrink-0">
-          <Vanguard AIMark />
+          <VanguardAIMark />
         </Link>
 
         <nav className="hidden items-center gap-0.5 lg:flex">
@@ -261,7 +261,7 @@ export function SiteFooter() {
         <div className="grid gap-10 lg:grid-cols-[1.8fr_1fr_1.2fr_1.4fr]">
           <div>
             <Link to="/" className="inline-flex items-center gap-3 mb-5">
-              <Vanguard AIMark />
+              <VanguardAIMark />
             </Link>
             <p className="text-sm leading-relaxed text-muted-foreground max-w-xs">
               AI Solutions Engineered for Tomorrow. We build intelligent agents,
