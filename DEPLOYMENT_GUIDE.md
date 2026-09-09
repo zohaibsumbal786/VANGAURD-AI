@@ -31,15 +31,17 @@
 ```
 Project name: vanguard-ai
 Production branch: main
-Framework preset: None (or Vite)
+Framework preset: None
 
 Build settings:
 ├─ Build command: npm run build
-├─ Build output directory: dist
+├─ Build output directory: dist/client
 └─ Root directory: (leave blank)
 
 Node version: 18 or higher
 ```
+
+**IMPORTANT:** The build output directory must be `dist/client` (not just `dist`)
 
 ### Step 4: Environment Variables (Optional)
 For now, you can skip this section. Add variables later if needed:

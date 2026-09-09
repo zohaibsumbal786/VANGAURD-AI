@@ -11,7 +11,11 @@ export default defineConfig({
     tanstackStart({
       server: { entry: "server" },
       prerender: {
-        enabled: false,
+        enabled: true,
+        crawlLinks: true,
+      },
+      deployment: {
+        preset: "cloudflare-pages",
       },
     }),
     react(),
