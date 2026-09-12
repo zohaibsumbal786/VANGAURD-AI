@@ -61,8 +61,8 @@ const WHATSAPP_HREF =
   encodeURIComponent("Hi Vanguard AI — I'd like to talk about a project.");
 const WHATSAPP_NUMBER = "+92 315 6977277";
 const EMAIL = "vanguardai@gmail.com";
-const FACEBOOK_URL = "https://www.facebook.com/profile.php?id=61590736214299";
-const INSTAGRAM_URL = "https://www.instagram.com/vanguardaillc/";
+const FACEBOOK_URL = "https://www.facebook.com/profile.php?id=61593997093529&mibextid=wwXIfr&rdid=cHudkUxn7TyrCXSD&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F1HRgGtR4Cm%2F%3Fmibextid%3DwwXIfr";
+const INSTAGRAM_URL = "https://www.instagram.com/vanguardai.1?stkn=cGJlbWtkOXYxNHNp&utm_source=qr";
 const TIKTOK_URL = "https://www.tiktok.com/@vanguardaillc";
 
 function WhatsAppIcon(props: React.SVGProps<SVGSVGElement>) {
@@ -365,7 +365,7 @@ function Hero() {
             SOFTWARE HOUSE · PRODUCT ENGINEERING · PAKISTAN
           </div>
           <h1 className="reveal font-display text-5xl font-bold leading-[1.05] tracking-tight sm:text-6xl lg:text-[5.25rem]">
-            We build the software
+            We build software
             <br />
             <span className="text-gradient">your business needs next.</span>
           </h1>

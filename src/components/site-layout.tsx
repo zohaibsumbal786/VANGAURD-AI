@@ -16,8 +16,8 @@ export const WHATSAPP_HREF =
   encodeURIComponent("Hi Vanguard AI — I'd like to talk about a project.");
 export const EMAIL = "vanguardai@gmail.com";
 export const FACEBOOK_URL =
-  "https://www.facebook.com/profile.php?id=61590736214299";
-export const INSTAGRAM_URL = "https://www.instagram.com/vanguardaillc/";
+  "https://www.facebook.com/profile.php?id=61593997093529&mibextid=wwXIfr&rdid=cHudkUxn7TyrCXSD&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F1HRgGtR4Cm%2F%3Fmibextid%3DwwXIfr";
+export const INSTAGRAM_URL = "https://www.instagram.com/vanguardai.1?stkn=cGJlbWtkOXYxNHNp&utm_source=qr";
 export const TIKTOK_URL = "https://www.tiktok.com/@vanguardaillc";
 
 export function WhatsAppIcon(props: React.SVGProps<SVGSVGElement>) {

@@ -123,8 +123,8 @@ Open [http://localhost:5173](http://localhost:5173) in your browser.
 - **Website:** [vanguardai.com](https://vanguardai.com)
 - **Email:** vanguardai@gmail.com
 - **WhatsApp:** +92 315 6977277
-- **Instagram:** [@vanguardaillc](https://www.instagram.com/vanguardaillc/)
-- **Facebook:** [Vanguard AI](https://www.facebook.com/profile.php?id=61590736214299)
+- **Instagram:** [@vanguardai.1](https://www.instagram.com/vanguardai.1?stkn=cGJlbWtkOXYxNHNp&utm_source=qr)
+- **Facebook:** [Vanguard AI](https://www.facebook.com/profile.php?id=61593997093529&mibextid=wwXIfr&rdid=cHudkUxn7TyrCXSD&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F1HRgGtR4Cm%2F%3Fmibextid%3DwwXIfr)
 - **TikTok:** [@vanguardaillc](https://www.tiktok.com/@vanguardaillc)
 
 ---
