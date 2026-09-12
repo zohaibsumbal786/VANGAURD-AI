@@ -9,13 +9,9 @@ export default defineConfig({
     tsconfigPaths(),
     tailwindcss(),
     tanstackStart({
-      server: { entry: "server" },
       prerender: {
         enabled: true,
         crawlLinks: true,
-      },
-      deployment: {
-        preset: "cloudflare-pages",
       },
     }),
     react(),
